@@ -1,0 +1,16 @@
+pandas
+numpy
+dvc
+keras
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+joblib
+PyYaml
+streamlit
+h5py
+keras_preprocessing
+mlflow
+opencv-python
+
